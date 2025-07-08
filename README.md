@@ -40,13 +40,12 @@ A practice project using HTML and CSS to demonstrate and experiment with:
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](BoxModel.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL ](https://github.com/shrikanth-dev/Positioning-Practice-Project)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/Positioning-Practice-Project/)
 
 ### Built with
 
